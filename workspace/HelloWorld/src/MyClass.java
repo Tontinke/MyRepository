@@ -8,6 +8,6 @@ public class MyClass {
 	public static void main(String[] args){
 		System.out.println("Hello world!");		
 		System.out.println("Udv mindenki!");
-		System.out.println(":)");
+		System.out.println("CSak egyszer tudnam mar felcommitolni!");
 	}
 }
