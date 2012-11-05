@@ -3,6 +3,4 @@
  * @author Tontinke
  *
  */
-public class BlankClass {
-
-}
+public class BlankClass {}
