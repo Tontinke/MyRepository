@@ -13,6 +13,10 @@ public class MyClass{
 		System.out.println("The current time is: "+ getCurrentTime());		
 	}
 
+	/***
+	 * GEts the current time
+	 * @return string
+	 */
 	public static String getCurrentTime() {
 		Calendar cal = Calendar.getInstance();
 		cal.getTime();
