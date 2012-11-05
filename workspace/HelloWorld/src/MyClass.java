@@ -8,11 +8,9 @@ public class MyClass{
 	 * @param args
 	 */
 	public static void main(String[] args){
-		System.out.println("Hello world!");		
-		System.out.println("Udv mindenki!");
+		System.out.println("Hello world!");				
 		
-		System.out.println("The current time is: "+ getCurrentTime());
-		System.out.println("A jelenlegi idõ: "+ getCurrentTime());
+		System.out.println("The current time is: "+ getCurrentTime());		
 	}
 
 	public static String getCurrentTime() {
