@@ -14,7 +14,7 @@ public class MyClass{
 	}
 
 	/***
-	 * GEts the current time
+	 * Gets the current time in the current timezone
 	 * @return string
 	 */
 	public static String getCurrentTime() {
